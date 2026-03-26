@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # expense-manager-frontend
 # walletsync-frontend
 # walletsync-frontend
+# walletsync-frontend
