@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 # walletsync-frontend
 # walletsync-frontend
 # walletsync-frontend
+# walletsync-frontend
